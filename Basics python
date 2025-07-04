@@ -1,0 +1,172 @@
+# print("Hello Wasif!")
+# print(7)
+# print("bye",9)
+# print(17/13)
+
+# print("Hey,I am a good boy\nand also a brave man")
+
+# a=10
+# b=complex(8,2)
+# a=10
+# b=9
+"""
+print(a+b)
+print("The type of a is",type(a))
+print("The type of b is",type(b))
+"""
+    # hello
+
+
+# a=3.2
+# b=3.8
+
+# print("The value of ",a,"+",b," is ",a+b)
+# print("The value of ",a,"-",b," is ",a-b)
+# print("The value of ",a,"*",b," is ",a*b)
+# print("The value of ",a,"/",b," is ",a/b)
+# print("The value of ",a,"%",b," is ",a%b)
+
+# print("The value of ",a,"**",b," is ",a**b)
+
+
+# print(f"The value of {a} ** {b} is{a**b}" )
+
+
+# print(int(a)+int(b))
+# print(str(a) str(b))
+
+
+# x=input("THe first value is")
+# y=input("the second value is")
+# print(int(x)+str(y))
+
+# print(str(int(x))+str(y))
+
+
+
+#  String is immutabel
+
+# name="Wasif"
+# print(name[0])
+# print(name[1])
+# print(name[2])
+# print(name[3])
+
+
+
+# name ="fariha"
+# farihalen=len(name)
+# print(farihalen)
+
+
+
+# name="Hey, My name is wasif. i am a good boy. I want to eat an apple."
+# print(name[0:25])
+
+#   String methods
+#  upper()       ,  lower()   ,strip()
+
+
+# a="AbcDefgeihS"
+# print(a.upper())   #print upper case letters
+# print(a.lower()) #print lower case letters
+# text = "   Wasif   "
+# print(text.strip())  #ignroe the space before and after the text
+# name= "I love programming"
+# print(name.replace("programming","coding"))  #rpelace the words
+
+# name1= 'My name is wasif' 
+# print(name1.split())   # words ko split kr deta ha ya method
+
+
+# words = ["I", "am", "Wasif"]
+# print(" ".join(words))  #words ko join krne ma help krta ha
+
+
+# text1 = "banana"
+# print(text1.count("a"))  # text ma letter ko doondna ka koi word ketne dafa use howa ha
+
+
+# name2= "my name is wasif"
+# print(name2.isalpha())    #isalpha() method check karta hai:       Kya string sirf alphabets (A-Z, a-z) par hi mabni hai?          Lekin "my name is wasif" mein spaces ( ) bhi hain — aur space alphabet nahi hota.
+
+
+
+# text3 = "Wasif123"
+# print(text3.isalnum())  
+
+
+
+
+# text4="My name is rana wasif"
+# print(text4.title())
+
+
+
+
+
+
+
+#   python conditions
+
+
+# a=int(input("Enter your age::"))
+# print("Your age is",a)
+# if(a>=18):
+#     print("You are eligible for voting")
+# else:
+#     print("Your are not eligibe for voting")
+
+
+
+
+# a=int(input("Enter your grade in marks"))
+# print(a)
+# if(a>=90):
+#  print("Grade: A+")
+# elif(a>=80):
+#  print("Grade: B")
+# else:
+#  print("Grade: Fail")
+
+   
+
+
+
+# a=str(input("Enter your name"))
+# print("Your enter name is",a)
+# if(a=="fariha"):
+#     print("fariha kharoos")
+# else:
+#     print("Not a correct name")
+
+
+
+
+# a=int(input("Ener a number"))
+# print(a)
+# if(a%2==0):
+#     print("Even number",a)
+# elif(a%2!=0):
+#     print("odd number",a)
+# else:
+#     print("not a number")
+
+
+
+
+
+# a=int(input("Enter your age"))
+# cizitan=input("Are you pakistani citizan:(yes/no)")
+
+# print(a)
+# if(cizitan.lower()=='yes'):
+#     if(a>=18):
+#      print("you are eligalbe for vote")
+#     else:
+#        print("you are not eligible for vote")
+# else:
+#      print("no")
+    
+
+
